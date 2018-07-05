@@ -1,1 +1,1 @@
-# beacon-master
+﻿# [BEACON MVP]
